@@ -1,0 +1,6 @@
+{
+  "name": "Infinite Ocean of Sorry",
+  "description": "An immersive, cinematic visual experience filled with thousands of soft, glowing Sorry words drifting like an ocean, accompanied by elegant typography and an ambient soundscape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
